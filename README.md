@@ -37,15 +37,6 @@ Experience:
         <td style="border:none;">
         	<img align="left" alt="Selenium" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     	</td>
-    </tr>
-	<tr>
-    	<td style="border:none;">
-        	<img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    	</td>
-    	<td style="border:none;">
-        	<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    	</td>
-    </tr>
     <tr>
     	<td style="border:none;">
         	<img align="left" alt="Dart" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
